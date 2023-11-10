@@ -607,12 +607,12 @@ section {
   min-height: 500px;
 }
 
-.about .skills-content {
+/* .about .skills-content {
   margin-top: 30px;
-}
+} */
 
 .about .skills-content .progress {
-  height: 60px;
+  height: 30px;
   display: block;
   background: none;
   border-radius: 0;
@@ -637,12 +637,12 @@ section {
   background: #e6e8eb;
 }
 
-.about .skills-content .progress-bar {
+/* .about .skills-content .progress-bar {
   width: 1px;
   height: 10px;
   transition: 0.9s;
   background-color: #ffb727;
-}
+} */
 
 /*--------------------------------------------------------------
 # My Resume
